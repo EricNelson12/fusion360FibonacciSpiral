@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fusion 360 specific
+*.f3d
+*.f3z
+*.f2d
+*.f2z
+*.f3d.bak
+*.f3z.bak
+*.f2d.bak
+*.f2z.bak
+
+# OS specific
+.DS_Store
+Thumbs.db 
